@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2-Karen-MacaroniCheese.jpg</filename>
+	<path>/home/phawit/Desktop/object-detection/images/2-Karen-MacaroniCheese.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>614</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>macncheese</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>1</ymin>
+			<xmax>502</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
